@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Velazquez_David_EXAMEN</string>
+    <string name="Producto">Producto</string>
+    <string name="Subtotal">Subtotal</string>
+    <string name="Jabon">Jabón de manos x1</string>
+    <string name="p1">$2</string>
+    <string name="Shampoo">Shampoo Monster x1</string>
+    <string name="p2">$10</string>
+    <string name="Pastas">Pastas Duria x 2</string>
+    <string name="p3">$18</string>
+    <string name="Detergente">Detergente Limpiadin x1</string>
+    <string name="p4">$13,4</string>
+    <string name="Subtotal2">Subtotal</string>
+    <string name="p5">$43,4</string>
+    <string name="Costo_envio">Costo envío</string>
+    <string name="p6">$10</string>
+    <string name="Cupon">Cupón</string>
+    <string name="p7">-$5</string>
+    <string name="Total">Total</string>
+    <string name="p8">$48,4</string>
+</resources>
